@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Exercise-App/static/css/main.b60e94a4.css",
+    "main.js": "/React-Exercise-App/static/js/main.32435568.js",
+    "static/media/gym.png": "/React-Exercise-App/static/media/gym.774a685b242cf01abecc.png",
+    "static/media/dumbellimage.jpg": "/React-Exercise-App/static/media/dumbellimage.022aae34d5552cd0aee6.jpg",
+    "static/media/logo.jpg": "/React-Exercise-App/static/media/logo.9d9cfe8a56d486a1d922.jpg",
+    "index.html": "/React-Exercise-App/index.html",
+    "main.b60e94a4.css.map": "/React-Exercise-App/static/css/main.b60e94a4.css.map",
+    "main.32435568.js.map": "/React-Exercise-App/static/js/main.32435568.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b60e94a4.css",
+    "static/js/main.32435568.js"
+  ]
+}
